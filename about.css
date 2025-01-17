@@ -1,0 +1,480 @@
+section {
+    background: url(background3.png) -50%;
+}
+
+div span {
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    font-family: 'Times New Roman';
+    font-weight: bolder;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
+
+div span {
+    /*-webkit-text-stroke: 1px #fff*;*/
+    color: transparent;
+    background-image: linear-gradient(#fff, #fff);
+    background-repeat: no-repeat;
+    -webkit-background-clip: text;
+    background-position: -750px 0;
+    animation: backcolor 5s linear infinite alternate;
+}
+
+@keyframes backcolor {
+    100% {
+        background-position: 0 0;
+    }
+}
+
+ul {
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    top: 0;
+    left: 0;
+    text-decoration: none;
+    margin-left: 40%;
+}
+
+ul li {
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+}
+
+ul li a {
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+}
+
+ul li a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.mmm {
+    font-size: 80px;
+    font-family: 'Times New Roman', Times;
+    justify-content: center;
+    align-items: center;
+    margin-left: 70px;
+    display: inline-block;
+}
+
+.main {
+    position: relative;
+    margin-top: 50%;
+}
+
+.footer {
+    position: absolute;
+    background-color: green;
+    border: 100%;
+    height: 50px;
+    width: 100%;
+    padding-left: 30%;
+}
+
+.note {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+}
+
+.classlist {
+    color: #fff;
+    display: inline-block;
+}
+
+h2 .statement {
+    text-decoration: underline;
+    justify-content: center;
+    align-items: center;
+    float: center;
+}
+
+.members {
+    display: flex;
+}
+
+li a {
+    text-decoration: none;
+    color: #000, #000;
+}
+
+.onuohalonginus {
+    color: red;
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    width: 200px;
+    height: 230px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Koala.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.onuohalonginus:hover {
+    transform: translateY(-30px);
+}
+
+.sp {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 200px;
+    height: 230px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Tulips.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.sp:hover {
+    transform: translateY(-30px);
+}
+
+.okereemmanuel {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 200px;
+    height: 230px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Koala.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.okereemmanuel:hover {
+    transform: translateY(-30px);
+}
+
+.achilonunestor {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 200px;
+    height: 230px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(penguins.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.achilonunestor:hover {
+    transform: translateY(-30px);
+}
+
+.iwuemmanuel {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 200px;
+    height: 230px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(jellyfish.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.iwuemmanuel:hover {
+    transform: translateY(-30px);
+}
+
+.ahumaraezemmaebubechukwu {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(penguins.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.ahumaraezemmaebubechukwu:hover {
+    transform: translateY(-30px);
+}
+
+.chilakacollins {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Hydrangeas.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.chilakacollins:hover {
+    transform: translateY(-30px);
+}
+
+.chilakacollins {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Hydrangeas.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.chilakacollins:hover {
+    transform: translateY(-30px);
+}
+
+.chilakacollins {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Hydrangeas.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.chilakacollins:hover {
+    transform: translateY(-30px);
+}
+
+.chilakacollins {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Hydrangeas.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.chilakacollins:hover {
+    transform: translateY(-30px);
+}
+
+.chilakacollins {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Hydrangeas.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.chilakacollins:hover {
+    transform: translateY(-30px);
+}
+
+.chilakacollins {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Hydrangeas.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.chilakacollins:hover {
+    transform: translateY(-30px);
+}
+
+.chilakacollins {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Hydrangeas.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.chilakacollins:hover {
+    transform: translateY(-30px);
+}
+
+.ononogbostphen {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Chrysanthemum.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.ononogbostphen:hover {
+    transform: translateY(-30px);
+}
+
+.nwaekweanthonio {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Chrysanthemum.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.nwaekweanthonio:hover {
+    transform: translateY(-30px);
+}
+
+.nnabuifejoseph {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Chrysanthemum.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.nnabuifejoseph:hover {
+    transform: translateY(-30px);
+}
