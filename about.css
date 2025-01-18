@@ -205,7 +205,7 @@ li a {
     display: inline-block;
     cursor: pointer;
     margin: 10px 15px;
-    background-image: url(penguins.jpg);
+    background-image: url(koala.jpg);
     background-size: cover;
     background-position: center;
     transition: 0.5s;
@@ -228,7 +228,7 @@ li a {
     display: inline-block;
     cursor: pointer;
     margin: 10px 15px;
-    background-image: url(jellyfish.jpg);
+    background-image: url(welcomescan.jpg);
     background-size: cover;
     background-position: center;
     transition: 0.5s;
@@ -251,7 +251,7 @@ li a {
     display: inline-block;
     cursor: pointer;
     margin: 10px 15px;
-    background-image: url(penguins.jpg);
+    background-image: url(hydrangeas.jpg);
     background-size: cover;
     background-position: center;
     transition: 0.5s;
