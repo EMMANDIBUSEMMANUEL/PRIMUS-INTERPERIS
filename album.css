@@ -1,0 +1,521 @@
+body {
+    background-color: blue, blue;
+}
+
+section {
+    background: url(background3.png) -50px no-repeat;
+    background-position: top;
+    background-size: contain;
+}
+
+div span {
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    font-family: 'Times New Roman';
+    font-weight: bolder;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
+
+div span {
+    /*-webkit-text-stroke: 1px #fff*;*/
+    color: transparent;
+    background-image: linear-gradient(blue, blue);
+    background-repeat: no-repeat;
+    -webkit-background-clip: text;
+    background-position: -750px 0;
+    animation: backcolor 5s linear infinite alternate;
+}
+
+@keyframes backcolor {
+    100% {
+        background-position: 0 0;
+    }
+}
+pictures{
+    position: center;
+    height: 50px;
+    width: 50px;
+    float: inherit;
+}
+
+.members {
+    background: url(background5.jpg) no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+ul {
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    top: 0;
+    left: 0;
+    text-decoration: none;
+    margin-left: 40%;
+}
+
+ul li {
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+}
+
+ul li a {
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+}
+
+ul li a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.mmm {
+    font-size: 80px;
+    font-family: 'Times New Roman', Times;
+    justify-content: center;
+    align-items: center;
+    margin-left: 70px;
+    background: blue, blue;
+}
+
+.main {
+    position: relative;
+    margin-top: 50%;
+}
+
+.footer {
+    position: absolute;
+    background-color: green;
+    border: 100%;
+    height: 50px;
+    width: 870px;
+    padding-left: 30%;
+}
+
+.note {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+}
+
+.classlist {
+    color: #fff;
+    display: inline-block;
+}
+
+h2 .statement {
+    text-decoration: underline;
+    justify-content: center;
+    align-items: center;
+    float: center;
+}
+
+.members {
+    display: flex;
+}
+
+li a {
+    text-decoration: none;
+    color: #000, #000;
+}
+
+.onuohalonginus {
+    color: green;
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    width: 200px;
+    height: 230px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Koala.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.onuohalonginus:hover {
+    transform: translateY(-30px);
+}
+
+.sp {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 200px;
+    height: 230px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Tulips.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.sp:hover {
+    transform: translateY(-30px);
+}
+
+.okereemmanuel {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 200px;
+    height: 230px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Koala.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.okereemmanuel:hover {
+    transform: translateY(-30px);
+}
+
+.achilonunestor {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 200px;
+    height: 230px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Koala.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.achilonunestor:hover {
+    transform: translateY(-30px);
+}
+
+.iwuemmanuel {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 200px;
+    height: 230px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Koala.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.iwuemmanuel:hover {
+    transform: translateY(-30px);
+}
+
+.ahumaraezemmaebubechukwu {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Hydrangeas.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.ahumaraezemmaebubechukwu:hover {
+    transform: translateY(-30px);
+}
+
+.chilakacollins {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Hydrangeas.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.chilakacollins:hover {
+    transform: translateY(-30px);
+}
+
+.nwamadiprosper {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(nwamadi.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.nwamadiprosper:hover {
+    transform: translateY(-30px);
+}
+
+.chukwumapaschal {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(paschal.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.chukwumapaschal:hover {
+    transform: translateY(-30px);
+}
+
+.onwuamaegbugerald {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(gerald.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.onwuamaegbugerald:hover {
+    transform: translateY(-30px);
+}
+
+.okerekehenry {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(okereke.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.okerekehenry:hover {
+    transform: translateY(-30px);
+}
+
+.chikweemmanuel {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(chikwe.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.chikweemmanuel:hover {
+    transform: translateY(-30px);
+}
+
+.ikechukwukenneth {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(kenneth.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.ikechukwukenneth:hover {
+    transform: translateY(-30px);
+}
+
+.ononogbostephen {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Chrysanthemum.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.ononogbostephen:hover {
+    transform: translateY(-30px);
+}
+
+.nwaekweanthonio {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(Chrysanthemum.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.nwaekweanthonio:hover {
+    transform: translateY(-30px);
+}
+
+.nnabuifejoseph {
+    ccolor: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(joseph.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.nnabuifejoseph:hover {
+    transform: translateY(-30px);
+}
+
+.chukwumaharachukwu {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-image: url(harachukwu.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: 0.5s;
+}
+
+.chukwumaharachukwu:hover {
+    transform: translateY(-30px);
+}
