@@ -5,7 +5,14 @@ body {
 section {
     background: url(background3.png) -50px no-repeat;
     background-position: top;
-    background-size: contain;
+    background-size: cover;
+}
+
+picture img {
+    width: 400px;
+    float: center;
+    height: 400px;
+    /*  */
 }
 
 div span {
@@ -519,4 +526,12 @@ li a {
 
 .chukwumaharachukwu:hover {
     transform: translateY(-30px);
+}
+
+.videos {
+    height: 400px;
+    width: 400px;
+    display: inline-block;
+    box-sizing: border-box;
+    position: relative;
 }

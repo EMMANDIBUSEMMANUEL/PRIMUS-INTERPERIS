@@ -5,7 +5,7 @@ body {
 section {
     background: url(Desert.jpg) -50px no-repeat;
     background-position: top;
-    background-size: contain;
+    background-size: cover;
 }
 
 div span {
@@ -124,7 +124,7 @@ li a {
 }
 
 .onuohalonginus {
-    color: red;
+    color: green;
     position: relative;
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
@@ -147,7 +147,7 @@ li a {
 }
 
 .sp {
-    color: red;
+    color: green;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     position: relative;
@@ -170,7 +170,7 @@ li a {
 }
 
 .okereemmanuel {
-    color: red;
+    color: green;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     position: relative;
@@ -193,7 +193,7 @@ li a {
 }
 
 .achilonunestor {
-    color: red;
+    color: green;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     position: relative;
@@ -216,7 +216,7 @@ li a {
 }
 
 .iwuemmanuel {
-    color: red;
+    color: green;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     position: relative;
@@ -239,7 +239,7 @@ li a {
 }
 
 .ahumaraezemmaebubechukwu {
-    color: red;
+    color: green;
     font-family: 'Times New Roman', Times, serif;
     font-size: 17px;
     position: relative;
@@ -262,7 +262,7 @@ li a {
 }
 
 .chilakacollins {
-    color: red;
+    color: green;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     position: relative;
@@ -285,7 +285,7 @@ li a {
 }
 
 .nwamadiprosper {
-    color: red;
+    color: green;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     position: relative;
@@ -308,7 +308,7 @@ li a {
 }
 
 .chukwumapaschal {
-    color: red;
+    color: green;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     position: relative;
@@ -331,7 +331,7 @@ li a {
 }
 
 .onwuamaegbugerald {
-    color: red;
+    color: green;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     position: relative;
@@ -354,7 +354,7 @@ li a {
 }
 
 .okerekehenry {
-    color: red;
+    color: green;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     position: relative;
@@ -377,7 +377,7 @@ li a {
 }
 
 .chikweemmanuel {
-    color: red;
+    color: green;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     position: relative;
@@ -400,7 +400,7 @@ li a {
 }
 
 .ikechukwukenneth {
-    color: red;
+    color: green;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     position: relative;
@@ -423,7 +423,7 @@ li a {
 }
 
 .ononogbostephen {
-    color: red;
+    color: green;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     position: relative;
@@ -446,7 +446,7 @@ li a {
 }
 
 .nwaekweanthonio {
-    color: red;
+    color: green;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     position: relative;
@@ -469,7 +469,7 @@ li a {
 }
 
 .nnabuifejoseph {
-    color: red;
+    color: green;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     position: relative;
@@ -492,7 +492,7 @@ li a {
 }
 
 .chukwumaharachukwu {
-    color: red;
+    color: green;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     position: relative;

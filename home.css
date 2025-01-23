@@ -87,17 +87,3 @@ ul li a:hover {
 h4 {
     overflow: hidden;
 }
-
-.promo::before {
-    content: '';
-    position: absolute;
-    top: 50%;
-    left: -50%;
-    width: 380px;
-    height: 420px;
-    background: linear-gradient(0deg, transparent, transparent, blue, blue, blue);
-    z-index: 1;
-    transform-origin: bottom right;
-    animation: animate 6s linear infinite;
-}
-
